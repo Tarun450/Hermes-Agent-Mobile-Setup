@@ -99,7 +99,7 @@ Moves into the project folder.
 ## Step 6 — Start installation
 
 ```bash
-bash install-termux.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/amirghm/hermes-agent-mobile/main/scripts/install-termux.sh
 ```
 
 The installer will automatically:
