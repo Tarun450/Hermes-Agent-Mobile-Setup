@@ -44,8 +44,8 @@ images/
 ├── setup.png
 ├── installation.png
 ├── desktop.png
-└── hermes.png
-
+└── 
+https://github.com/Tarun450/Hermes-Agent-Mobile-Setup/blob/main/Screenshot_2026-06-23-21-07-23-606_com.termux.jpg
 ```
 
 ---
@@ -78,26 +78,7 @@ Updates installed packages.
 ```bash
 pkg install git -y
 ```
-
-Downloads Git.
-
-## Step 4 — Clone repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/hermes-agent-mobile-setup.git
-```
-
-Downloads the project.
-
-## Step 5 — Open the project
-
-```bash
-cd hermes-agent-mobile-setup
-```
-
-Moves into the project folder.
-
-## Step 6 — Start installation
+## Step 4 — Start installation
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/amirghm/hermes-agent-mobile/main/scripts/install-termux.sh
