@@ -44,8 +44,8 @@ images/
 ├── setup.png
 ├── installation.png
 ├── desktop.png
-└── 
-https://github.com/Tarun450/Hermes-Agent-Mobile-Setup/raw/main/Screenshot_2026-06-23-21-07-23-606_com.termux.jpg
+└── ![Hermes](https://github.com/Tarun450/Hermes-Agent-Mobile-Setup/raw/main/Screenshot_2026-06-23-21-07-23-606_com.termux.jpg)
+
 ```
 
 ---
