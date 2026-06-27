@@ -40,10 +40,10 @@ Whether you're a student, AI enthusiast, or developer without access to a deskto
 
 ```text
 images/
+![Installation Screenshot](images/installation.png)
 ![Hermes](https://github.com/Tarun450/Hermes-Agent-Mobile-Setup/raw/main/Screenshot_2026-06-23-21-07-23-
 606_com.termux.jpg)
-![Installation Screenshot](images/installation.png)
-![Setup Screenshot](images/setup.png)
+![Models Screenshot](images/setup.png)
 ```
 
 ---
