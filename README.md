@@ -37,7 +37,6 @@ Whether you're a student, AI enthusiast, or developer without access to a deskto
 
 # 📸 Screenshots
 
-Add screenshots here.
 
 ```text
 images/
