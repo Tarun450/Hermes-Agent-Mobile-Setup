@@ -37,9 +37,6 @@ Whether you're a student, AI enthusiast, or developer without access to a deskto
 
 # 📸 Screenshots
 
-
-```text
-images/
 ![Installation Screenshot](Screenshot_2026-06-27-11-57-21-021_com.termux.jpg)
 ![Hermes](Screenshot_2026-06-23-21-07-23-606_com.termux.jpg)
 ![Models Screenshot](Screenshot_2026-06-24-19-48-52-197_com.termux.jpg)
