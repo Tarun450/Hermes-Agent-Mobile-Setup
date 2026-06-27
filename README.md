@@ -75,12 +75,7 @@ pkg update && pkg upgrade -y
 
 Updates installed packages.
 
-## Step 3 — Install Git
-
-```bash
-pkg install git -y
-```
-## Step 4 — Start installation
+## Step 3 — Start installation
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/amirghm/hermes-agent-mobile/main/scripts/install-termux.sh
