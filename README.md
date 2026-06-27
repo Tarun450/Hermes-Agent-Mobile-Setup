@@ -195,15 +195,6 @@ Contributions are welcome.
 
 ---
 
-# 💬 Support
-
-- GitHub Issues
-- Telegram: *Coming Soon*
-- Discord: *Coming Soon*
-- Email: *your-email@example.com*
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
